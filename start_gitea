@@ -1,0 +1,1 @@
+./gitea web -p {{SERVER_PORT}}
